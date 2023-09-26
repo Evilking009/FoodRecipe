@@ -8,7 +8,7 @@ A Responsive Food Recipe Search App created using Html, Css &amp; Javascript
 - API
 
 # Live Site
-- 
+- https://foodrecipejs.netlify.app/
 
 # Screenshots
 ![1](https://github.com/Evilking009/FoodRecipe/assets/4027728/ca525ab4-b45a-4780-ba22-4f7fc9d0f1c0)
